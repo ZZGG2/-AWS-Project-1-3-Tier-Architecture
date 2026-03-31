@@ -1,6 +1,6 @@
-# 🚀 AWS Project #1: High-Availability 3-Tier Architecture
+# 🚀 AWS Project #1: 3-Tier Architecture
 
-본 프로젝트는 AWS 클라우드 환경에서 **고가용성(High Availability)**과 **보안(Security)**을 극대화한 3-Tier 아키텍처를 구축하고, 실제 장애 상황을 가정한 트러블슈팅을 통해 인프라의 안정성을 검증한 프로젝트입니다.
+본 프로젝트는 AWS 클라우드 환경에서 고가용성(High Availability)과 보안(Security)을 극대화한 3-Tier Architecture를 구축하고, 실제 장애 상황을 가정한 트러블슈팅을 통해 인프라의 안정성을 검증한 프로젝트입니다.
 
 ---
 
