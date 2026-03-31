@@ -5,7 +5,7 @@
 ---
 
 ## 🏗️ Architecture Diagram
-![AWS 3-Tier Architecture](!(./architecture.png))
+![AWS Project 1 3-Tier Architecture](!(./architecture.png))
 
 ---
 
